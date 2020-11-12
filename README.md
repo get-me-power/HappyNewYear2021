@@ -18,3 +18,10 @@
 ### gruvbox and badwolf (airline theme)
 
 ![gruvbox](./screenshot/gruvbox.png)
+
+## 参考文献
+
+- http://instinct.org/cows/ascii-cows1.html
+- https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+- https://orgachem.hatenablog.com/entry/2013/12/19/130701
+
