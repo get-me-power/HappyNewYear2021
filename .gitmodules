@@ -1,0 +1,6 @@
+[submodule "plugins/vim-airline"]
+	path = plugins/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "plugins/vim-devicons"]
+	path = plugins/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons
