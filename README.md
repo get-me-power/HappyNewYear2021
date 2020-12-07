@@ -4,10 +4,12 @@
 
 ## Vimで年賀状を作るためにすること
 
-1. ターミナルエミュレータのサイズを調整します 
+1. `git clone --recursive https://github.com/kazukazuinaina/HappyNewYear2021` を実行します
+
+2. ターミナルエミュレータのサイズを調整します 
     - e.g : iterm : `112*25`
 
-2. `vim -N -u autoscript.vim` を実行します
+3. `vim -N -u autoscript.vim` を実行します
 
 ## スクリーンショット
 
