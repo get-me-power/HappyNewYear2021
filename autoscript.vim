@@ -9,5 +9,6 @@ set noshowmode
 let g:airline_section_b = '2021 AD'
 let g:airline_section_c = 'I hope you will have a great year!'
 let g:airline_section_x = '㊗'
+let g:airline_extensions = ['tabline']
 
 edit HappyNewYear2021.txt
